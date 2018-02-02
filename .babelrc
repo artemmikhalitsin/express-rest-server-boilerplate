@@ -1,0 +1,7 @@
+{
+  "presets": ["es2015", "env", "stage-2"],
+  "ignore": [
+    "foo.js",
+    "node_modules/**/*.js"
+  ]
+}
